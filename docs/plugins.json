@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": "obsidian",
     "name": "Obsidian",
@@ -11,7 +11,7 @@
     "id": "burns-synth101",
     "name": "Synth 101",
     "type": "instrument",
-    "url": "https://expandyourmindx.github.io/canvas-plugins/burns-audio/synth101/index.js",
+    "url": "https://plugins.canvasdaw.com/burns-audio/synth101/index.js",
     "description": "Roland SH-101 synthesizer emulation",
     "author": "burns-audio"
   },
@@ -19,7 +19,7 @@
     "id": "burns-modal",
     "name": "Modal",
     "type": "instrument",
-    "url": "https://expandyourmindx.github.io/canvas-plugins/burns-audio/modal/index.js",
+    "url": "https://plugins.canvasdaw.com/burns-audio/modal/index.js",
     "description": "Physical modelling synthesizer",
     "author": "burns-audio"
   },
@@ -27,7 +27,7 @@
     "id": "burns-distortion",
     "name": "Simple Distortion",
     "type": "effect",
-    "url": "https://expandyourmindx.github.io/canvas-plugins/burns-audio/distortion/index.js",
+    "url": "https://plugins.canvasdaw.com/burns-audio/distortion/index.js",
     "description": "Waveshaper distortion",
     "author": "burns-audio"
   },
@@ -35,7 +35,7 @@
     "id": "burns-delay",
     "name": "Delay",
     "type": "effect",
-    "url": "https://expandyourmindx.github.io/canvas-plugins/burns-audio/delay/index.js",
+    "url": "https://plugins.canvasdaw.com/burns-audio/delay/index.js",
     "description": "Digital delay",
     "author": "burns-audio"
   },
@@ -43,7 +43,7 @@
     "id": "burns-reverb",
     "name": "Reverb",
     "type": "effect",
-    "url": "https://expandyourmindx.github.io/canvas-plugins/burns-audio/reverb/index.js",
+    "url": "https://plugins.canvasdaw.com/burns-audio/reverb/index.js",
     "description": "Convolution reverb",
     "author": "burns-audio"
   }
